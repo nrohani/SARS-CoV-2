@@ -1,18 +1,18 @@
 
 # A bioinformatic analysis on the application of RNAi in SARS-CoV-2
 
-Herein, we conducted four independent analysis on RNA interference (RNAi)-based therapy with computational and bioinformatic methods in order to target the evolutionary conserved regions in SARS-CoV-2 genome resulting to down-regulation or silencing its RNA. miRNAs are denoted to be play role in the resistance of some species to viral infections. A comprehensive analysis on the miRNAs available in the body of human, as wells as the miRNAs in bats and other species were done to find efficient candidates with low side effect in human body. Moreover, the evolutionary conserved regions in SARS-CoV-2 genome were considered for designing novel significant siRNA with high specificity. Multiple miRNAs and two siRNA were suggested as the possible efficient candidates with high affinity to SARS-CoV-2 genome and low side effects. The suggested candidates are promising therapeutics for the experimental evaluations and may speed up the procedure of treatment design.
+Herein, we conducted four independent analyses on RNA interference (RNAi)-based therapy with computational and bioinformatic methods in order to target the evolutionarily conserved regions in SARS-CoV-2 genome, resulting in down-regulation or silencing its RNA. miRNAs are denoted to play a role in the resistance of some species to viral infections. A comprehensive analysis on the miRNAs available in the body of human, as wells as the miRNAs in bats and other species, were done to find efficient candidates with low side-effects in the human body. Moreover, the evolutionarily conserved regions in SARS-CoV-2 genome were considered for designing novel significant siRNA with high specificity. Multiple miRNAs and two siRNA were suggested as the possible efficient candidates with a high affinity to SARS-CoV-2 genome and low side effects. The suggested candidates are promising therapeutics for the experimental evaluations and may speed up the procedure of treatment design.
 The preprint version is available in 
 
 ## Analysis schema
 
 ![Analysis schema](https://github.com/nrohani/SARS-CoV-2/blob/master/schema.jpg)
 
-In this research project we analysis for answer to these questions using computational approches:
+In this research project, we analysis for answering these questions using computational approaches:
 
 ### Analysis1: Can human miRNAs be helpful in the treatment of SARS-CoV-2?
 See results in Analysis1 folder.
-## Analysis2: Can bat miRNAs be helpful in the treatment of SARS-CoV-2?
+### Analysis2: Can bat miRNAs be helpful in the treatment of SARS-CoV-2?
 See results in Analysis2 folder.
 ### Analysis3: Can miRNAs of other species be helpful in the treatment of SARS-CoV-2?
 See results in Analysis3 folder.
@@ -37,18 +37,18 @@ pip install pandas
 ```
 Alternatively, you can use [IntaRNA WebTool](http://rna.informatik.uni-freiburg.de/CopraRNA/Input.jsp) for calculating MFE.  
 1. Finding UCRs: Candidate UCRs are calculated using codes in [this repository]( https://github.com/DasLab/SARSCoV2_Secstruct_Cons).
-2. Computing MFE : You can compute MFE with IntaRNA.py ( just address path of miRNA sequences and UCR files then run the code) or use IntaRNA WebTool.
+2. Computing MFE : You can compute MFE with IntaRNA.py (address path of miRNA sequences and UCR files, then run the code) or use IntaRNA WebTool.
 3. Investigating possible side-effects: For finding probable targets for candidate miRNA/ siRNA, we used [mirDB WebTool](http://mirdb.org/custom.html). The top possible target is enriched on [UniProt](https://www.uniprot.org/) and [Reactome](https://reactome.org/).
 4. Suggesting siRNAs:  [siDirect WebTool](http://sidirect2.rnai.jp/) is used for designing potential siRNAs.
 You can find all results and data in Results and dataset folder in this repository.
 ### Materials
 The complete genome sequence of SARS-CoV-2 was obtained with accession No. NC045512.2
-from the [GeneBank database](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/). The complete genome of betacoronavirus sequences from the NCBI database and sequences compiled by [Ceraolo and Giorgi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7166773/) were considered for finding evolutionary conserved regions.
+from the [GeneBank database](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/). The complete genome of betacoronavirus sequences from the NCBI database and sequences compiled by [Ceraolo and Giorgi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7166773/) were considered for finding evolutionarily conserved regions.
 Besides, the sequences of known miRNAs in human and other species were downloaded from
 the miRNA registry, [MirBase](http://www.mirbase.org/). 
 We obtained the sequences of bat-specific miRNAs from the previously published paper by [Huang et al.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3227-8).
 Also, the miRNA-mRNA interaction data, as well as the free binding energy of interactions and
-the sequences of miRNAs and mRNAs involving in the interactions, were collected from [CLASH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650559/).
+the sequences of miRNAs and mRNAs involving in the interactions were collected from [CLASH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650559/).
 
 
 ## Authors
