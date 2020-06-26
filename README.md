@@ -12,7 +12,7 @@ In this research project we analysis for answer to these questions using computa
 
 ### Analysis1: Can human miRNAs be helpful in the treatment of SARS-CoV-2?
 See results in Analysis1 folder.
-##Analysis2: Can bat miRNAs be helpful in the treatment of SARS-CoV-2?
+## Analysis2: Can bat miRNAs be helpful in the treatment of SARS-CoV-2?
 See results in Analysis2 folder.
 ### Analysis3: Can miRNAs of other species be helpful in the treatment of SARS-CoV-2?
 See results in Analysis3 folder.
