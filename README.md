@@ -56,3 +56,4 @@ the sequences of miRNAs and mRNAs involving in the interactions were collected f
 * **Narjes Rohani**, **Fatemeh Ahmadi Moughari**  and **Changiz Eslahchi**
 Please do not hesitate to contact us if you have any question:
 Mail: n.rohani@mail.sbu.ac.ir
+Please cite us if you find this study helpful.
