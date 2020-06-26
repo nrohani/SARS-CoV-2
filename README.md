@@ -14,10 +14,9 @@ In this research project we analysis for answer to these questions using computa
 See results in Analysis1 folder.
 ##Analysis2: Can bat miRNAs be helpful in the treatment of SARS-CoV-2?
 See results in Analysis2 folder.
-### Analysis3: Can miRNAs of other species be helpful in the treatment of SARS-
-CoV-2?
+### Analysis3: Can miRNAs of other species be helpful in the treatment of SARS-CoV-2?
 See results in Analysis3 folder.
-### Analysis4: Suggesting efficient siRNA for the treatment of SARS-Cov-2
+### Analysis4: Suggesting efficient siRNA for the treatment of SARS-CoV-2
 See results in Analysis4 folder.
 
 ### Prerequisites and Installing packages
@@ -31,7 +30,9 @@ See results in Analysis4 folder.
 pip install biopython
 
 conda install -c conda-forge -c bioconda intarna
+
 pip install subprocess.run
+
 pip install pandas
 ```
 Alternatively, you can use [IntaRNA WebTool](http://rna.informatik.uni-freiburg.de/CopraRNA/Input.jsp) for calculating MFE.  
