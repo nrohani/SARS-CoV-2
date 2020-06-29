@@ -6,8 +6,9 @@ Herein, we conducted four independent analyses on RNA interference (RNAi)-based 
 The preprint version is available in 
 
 ## Analysis schema
-
-![Analysis schema](https://github.com/nrohani/SARS-CoV-2/blob/master/schema.jpg)
+<p align="center">
+  <img src="https://github.com/nrohani/SARS-CoV-2/blob/master/schema.jpg?raw=true" alt="Analysis overview"/>
+</p>
 
 In this research project, we analysis for answering these questions using computational approaches:
 
