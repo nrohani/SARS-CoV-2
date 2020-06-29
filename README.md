@@ -10,7 +10,7 @@ The preprint version is available in
   <img src="https://github.com/nrohani/SARS-CoV-2/blob/master/schema.jpg?raw=true" alt="Analysis overview"/>
 </p>
 
-In this research project, we analysis for answering these questions using computational approaches:
+In this research project, we addressed these questions using computational methods:
 
 ### Analysis1: Can human miRNAs be helpful in the treatment of SARS-CoV-2?
 See results in Analysis1 folder.
