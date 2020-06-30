@@ -17,7 +17,7 @@ See results in [Analysis1.xlsx](https://github.com/nrohani/SARS-CoV-2/blob/maste
 ### Analysis2: Can bat miRNAs be helpful in the treatment of SARS-CoV-2?
 See results in [Analysis2.xlsx](https://github.com/nrohani/SARS-CoV-2/blob/master/Result%20and%20Data/Analysis2.xlsx).
 ### Analysis3: Can miRNAs of other species be helpful in the treatment of SARS-CoV-2?
-See results in [Analysis3](https://github.com/nrohani/SARS-CoV-2/blob/master/Result%20and%20Data/Analysis3.xlsx).
+See results in [Analysis3.xlsx](https://github.com/nrohani/SARS-CoV-2/blob/master/Result%20and%20Data/Analysis3.xlsx).
 ### Analysis4: Suggesting efficient siRNA for the treatment of SARS-CoV-2
 See results in Result and Data folder.
 
