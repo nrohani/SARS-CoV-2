@@ -3,7 +3,6 @@
 # DisCoVering potential candidates of RNAi-based therapy for SARS-CoV-2 using computational methods
 
 Herein, we conducted four independent analyses on RNA interference (RNAi)-based therapy with computational and bioinformatic methods in order to target the evolutionarily conserved regions in SARS-CoV-2 genome, resulting in down-regulation or silencing its RNA. miRNAs are denoted to play a role in the resistance of some species to viral infections. A comprehensive analysis on the miRNAs available in the body of human, as wells as the miRNAs in bats and other species, were done to find efficient candidates with low side-effects in the human body. Moreover, the evolutionarily conserved regions in SARS-CoV-2 genome were considered for designing novel significant siRNA with high specificity. Multiple miRNAs and two siRNA were suggested as the possible efficient candidates with a high affinity to SARS-CoV-2 genome and low side effects. The suggested candidates are promising therapeutics for the experimental evaluations and may speed up the procedure of treatment design.
-The preprint version is available in 
 
 ## Analysis schema
 <p align="center">
@@ -60,4 +59,4 @@ Please do not hesitate to contact us if you have any question:
 Mail: n.rohani@mail.sbu.ac.ir
 
 
-Please cite the paper if you find this study helpful.
+Please cite the study if you find this study helpful.
