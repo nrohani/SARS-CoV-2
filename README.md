@@ -11,13 +11,13 @@ Herein, we conducted four independent analyses on RNA interference (RNAi)-based 
 
 In this research project, we addressed these questions using computational methods:
 
-### Analysis1: Can human miRNAs be helpful in the treatment of SARS-CoV-2?
+### Analysis1: Can human miRNAs be helpful in the treatment of COVID-19?
 See results in [Analysis1.xlsx](https://github.com/nrohani/SARS-CoV-2/blob/master/Result%20and%20Data/Analysis1.xlsx).
-### Analysis2: Can bat miRNAs be helpful in the treatment of SARS-CoV-2?
+### Analysis2: Can bat miRNAs be helpful in the treatment of COVID-19?
 See results in [Analysis2.xlsx](https://github.com/nrohani/SARS-CoV-2/blob/master/Result%20and%20Data/Analysis2.xlsx).
-### Analysis3: Can miRNAs of other species be helpful in the treatment of SARS-CoV-2?
+### Analysis3: Can miRNAs of other species be helpful in the treatment of COVID-19?
 See results in [Analysis3.xlsx](https://github.com/nrohani/SARS-CoV-2/blob/master/Result%20and%20Data/Analysis3.xlsx).
-### Analysis4: Suggesting efficient siRNA for the treatment of SARS-CoV-2
+### Analysis4: Suggesting efficient siRNA for the treatment of COVID-19
 See results in Result and Data folder.
 
 ### Prerequisites and Installing packages
